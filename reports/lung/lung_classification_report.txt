@@ -1,0 +1,11 @@
+Classification Report for Lung Cancer Model
+============================================================
+              precision    recall  f1-score   support
+
+    lung_aca     0.9355    0.1160    0.2064       500
+      lung_n     1.0000    0.0040    0.0080       500
+    lung_scc     0.3482    1.0000    0.5165       500
+
+    accuracy                         0.3733      1500
+   macro avg     0.7612    0.3733    0.2436      1500
+weighted avg     0.7612    0.3733    0.2436      1500

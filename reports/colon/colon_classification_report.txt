@@ -1,0 +1,10 @@
+Classification Report for Colon Cancer Model
+============================================================
+              precision    recall  f1-score   support
+
+   colon_aca     0.8621    1.0000    0.9259       500
+     colon_n     1.0000    0.8400    0.9130       500
+
+    accuracy                         0.9200      1000
+   macro avg     0.9310    0.9200    0.9195      1000
+weighted avg     0.9310    0.9200    0.9195      1000
